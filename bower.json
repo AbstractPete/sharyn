@@ -1,0 +1,29 @@
+{
+  "name": "sharyn",
+  "description": "nodejs app",
+  "main": "index.js",
+  "authors": [
+    "Arthur Abramov<bc.mdstudio@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/AbstractPete/sharyn",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-resource": "~1.5.0",
+    "angular-material": "~1.0.5"
+  }
+}
